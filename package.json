@@ -12,6 +12,10 @@
     "build": "vwp build",
     "dist": "vwp dist"
   },
+  "dependencies": {
+    "fecha": "^2.3.0",
+    "string-mask": "^0.3.0"
+  },
   "peerDependencies": {
     "vwp": ">=0.0.31"
   },
