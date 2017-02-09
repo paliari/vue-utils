@@ -17,12 +17,3 @@ export default {
   SideMenu,
   SideMenuItems
 }
-
-export { Back }
-export { HeaderBar }
-export { Modal }
-export { Checkbox }
-export { IosSwitch }
-export { Radio }
-export { SideMenu }
-export { SideMenuItems }
