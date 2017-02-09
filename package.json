@@ -1,0 +1,19 @@
+{
+  "name": "paliari-vue-utils",
+  "version": "0.0.0",
+  "description": "Vue Utils",
+  "main": "dist/index.js",
+  "repository": "https://github.com/paliari/vue-utils.git",
+  "author": "Marcos Paliari",
+  "license": "MIT",
+  "scripts": {
+    "start": "yarn run dev -- $@",
+    "dev": "vwp dev",
+    "build": "vwp build",
+    "dist": "vwp dist"
+  },
+  "peerDependencies": {
+    "vwp": ">=0.0.31"
+  },
+  "devDependencies": {}
+}
